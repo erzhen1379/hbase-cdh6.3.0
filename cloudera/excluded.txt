@@ -1,0 +1,14 @@
+**/TestMobFlushSnapshotFromClient.java
+**/TestHRegionWithInMemoryFlush.java
+**/TestHRegion.java
+**/TestSnapshotFromMaster.java
+**/TestRegionReplicaFailover.java
+**/TestRegionInfoDisplay.java
+**/TestProcedurePriority.java
+**/TestAsyncTableGetMultiThreaded.java
+**/TestSplitTransactionOnCluster.java
+**/TestServerCrashProcedureStuck.java
+**/TestBlockEvictionFromClient.java
+
+**/TestMetaTableMetrics.java
+**/TestReplicator.java
